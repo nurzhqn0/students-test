@@ -1,0 +1,30 @@
+# Global
+.DS_Store
+Thumbs.db
+
+backend/.gradle/
+backend/build/
+backend/out/
+backend/bin/
+backend/.idea/
+backend/.classpath
+backend/.factorypath
+backend/.project
+backend/.settings/
+backend/.springBeans
+backend/.sts4-cache
+
+frontend/node_modules/
+frontend/dist/
+frontend/.angular/
+frontend/.cache/
+frontend/.firebase/
+frontend/.temp/
+frontend/coverage/
+
+# IDEs
+.vscode/
+.idea/
+*.iml
+*.ipr
+*.iws
